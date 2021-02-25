@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6943fe16-1055-4887-9a90-3bd934d29d63" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ovAd5DPQUW5rYNwcgJK6454SWo" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring/examples/M8-MVC/Ex1-hw" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProgrammaticTransactionTest">
+    <configuration name="DeclarativeTransactionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-3-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.springdb.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.springdb.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.springdb.lab3.DeclarativeTransactionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgrammaticTransactionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-3-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.springdb.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.springdb.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.springdb.lab3.ProgrammaticTransactionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgrammaticTransactionTest.testRequiredPropagation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-3-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.springdb.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.springdb.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.springdb.lab3.ProgrammaticTransactionTest" />
+      <option name="METHOD_NAME" value="testRequiredPropagation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgrammaticTransactionTest.testRequiresNewPropagation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-3-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.springdb.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.springdb.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.springdb.lab3.ProgrammaticTransactionTest" />
+      <option name="METHOD_NAME" value="testRequiresNewPropagation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgrammaticTransactionTest.testSetRollBackProgrammatically" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab-3-tx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luxoft.springdb.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luxoft.springdb.lab3" />
+      <option name="MAIN_CLASS_NAME" value="com.luxoft.springdb.lab3.ProgrammaticTransactionTest" />
+      <option name="METHOD_NAME" value="testSetRollBackProgrammatically" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProgrammaticTransactionTest" />
+        <item itemvalue="JUnit.DeclarativeTransactionTest" />
+        <item itemvalue="JUnit.ProgrammaticTransactionTest.testRequiredPropagation" />
+        <item itemvalue="JUnit.ProgrammaticTransactionTest.testRequiresNewPropagation" />
+        <item itemvalue="JUnit.ProgrammaticTransactionTest.testSetRollBackProgrammatically" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6943fe16-1055-4887-9a90-3bd934d29d63" name="Default Changelist" comment="" />
+      <created>1614156774296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614156774296</updated>
+    </task>
+    <servers />
+  </component>
+</project>
